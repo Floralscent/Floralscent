@@ -1,10 +1,17 @@
-<img src="./profile.jpg" width="180" align="right">
+<table>
+<tr>
+<td>
 
 # 소개
 
 도전과 배움을 통해 최고를 향해 나아가는 엔지니어 **이희준**입니다.
 
----
+</td>
+<td align="right">
+<img src="profile.jpg" width="180">
+</td>
+</tr>
+</table>
 
 ## 숭실대학교 신경공학연구실(NSPL) 학부연구생 🔬
 
