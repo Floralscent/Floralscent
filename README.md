@@ -1,19 +1,14 @@
-<table>
-<tr>
-<td>
+<div style="float: right; margin-left: 20px;">
+  <img src="profile.jpg" width="160" />
+</div>
 
 # 소개
 
 도전과 배움을 통해 최고를 향해 나아가는 엔지니어 **이희준**입니다.
 
-</td>
-<td align="right">
-<img src="profile.jpg" width="180">
-</td>
-</tr>
-</table>
+# Research & Internship Experience🔬
 
-## 숭실대학교 신경공학연구실(NSPL) 학부연구생 🔬
+## 숭실대학교 신경공학연구실(NSPL) 학부연구생 
 
 **기간:** 2023.07.03 ~ 2024.12.31
 
@@ -24,8 +19,6 @@
 * 연구실내 선배 실험 참여 및 보
 
 ---
-
-# Research & Internship Experience
 
 ## UNIST 하계 학부연구생 인턴
 
