@@ -1,3 +1,4 @@
+<img src="./profile.jpg" width="180" align="right">
 
 # 소개
 
