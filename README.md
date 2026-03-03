@@ -14,14 +14,10 @@
 - 논문/기술 스크랩 기반 정보 공유  
 - 연구실 선배 실험 참여 및 보조
 
-- 🚀 Featured Projects
-
-  숭실대 NSPL 학부연구생 활동 정리
-  [NSPL:Radar System](https://github.com/Floralscent/radar-signal-processing)
-  * 레이더 시스템 학습 및 신규 레이더 데이터 처리 및 FOV 검증 실험
-  * Point Cloud 기반 SAR 구현 및 raw 데이터 SAR 확장
-  * 주요 기술: Python, matlab
-
+#### 🚀 [숭실대 NSPL 학부연구생 활동 정리](https://github.com/사용자명/NSPL_Radar_System)
+* 레이더 시스템 학습 및 신규 레이더 데이터 처리 및 FOV 검증 실험
+* Point Cloud 기반 SAR 구현 및 Raw 데이터 SAR 확장
+* 주요 기술: Python, MATLAB
 ---
 
 ## UNIST 하계 학부연구생 인턴
@@ -35,12 +31,9 @@
 * 레이더 구조·신호처리 관련 학습 및 발표
 * RGBD 카메라 기반 포인트 클라우드 생성·분석
 
-🚀 Featured Projects
-유니스트 하계 인턴 활동 정리
-[U-Surf](https://github.com/Floralscent/u-surf_computervision)
-    
-  * ROS2 및 Isaac Sim을 활용한 RGB-D to Point Cloud 변환 및 nvblox 맵핑 구현.
-  * 주요 기술: Python, C++, ROS2, RGBD Camera Model.
+#### 🚀 [유니스트 하계 인턴 활동 정리 (U-Surf)](https://github.com/사용자명/U-Surf)
+* ROS2 및 Isaac Sim을 활용한 RGB-D to Point Cloud 변환 및 nvblox 맵핑 구현
+* 주요 기술: Python, C++, ROS2, RGBD Camera Model
 
 ---
 
