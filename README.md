@@ -38,7 +38,7 @@
 🚀 Featured Projects
 유니스트 하계 인턴 활동 정리
 [U-Surf](https://github.com/Floralscent/u-surf_computervision)
-    * ROS2 및 Isaac Sim을 활용한 RGB-D to Point Cloud 변환 및 nvblox 실시간 맵핑 구현.
+    * ROS2 및 Isaac Sim을 활용한 RGB-D to Point Cloud 변환 및 nvblox 맵핑 구현.
     * 주요 기술: Python, C++, ROS2, RGBD Camera Model.
 
 ---
