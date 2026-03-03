@@ -39,16 +39,25 @@
 * DBSCAN을 활용한 인간 타깃 분리
 * SAR 기반 영상 데이터 압축·효율화 실험 참여
 
+🚀 Featured Projects
+
+  [NSPL:Radar System](https://github.com/Floralscent/radar-signal-processing)
+    * 레이더 시스템 학습 및 신규 레이더 데이터 처리 및 FOV 검증 실험
+    * Point Cloud 기반 SAR 구현 및 raw 데이터 SAR 확장
+    * 주요 기술: Python, matlab
+  
+
 ## ROS2 & RGB-D 기반 SLAM 적용 학습
 
 * Linux/ROS2 환경에서 C++ 기반 패키지 작성
 * RGB-D 카메라를 활용한 포인트 클라우드 생성
 * nvblox 기반의 간단한 Visual SLAM 구현 적용
+  
 🚀 Featured Projects
 
-  [UNIST Internship: 3D Perception Pipeline](https://github.com/Floralscent/u-surf_computervision)
+  [UNIST Internship:Couputer Vision](https://github.com/Floralscent/u-surf_computervision)
     * ROS2 및 Isaac Sim을 활용한 RGB-D to Point Cloud 변환 및 nvblox 실시간 맵핑 구현.
-    * 주요 기술: Python, C++, ROS2, CUDA, Pinhole Camera Model.
+    * 주요 기술: Python, C++, ROS2, RGBD Camera Model.
 ---
 
 # Skills
