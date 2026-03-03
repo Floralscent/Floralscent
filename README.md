@@ -146,9 +146,7 @@
 
 # Additional Links
 
-* 코딩 테스트 및 알고리즘 풀이 기록 (Algorithm/PS)
-  
-* 주요 프로젝트 링크 (작성 예정)
+* [코딩 테스트 및 알고리즘 풀이 기록 (Algorithm/PS)](https://github.com/Floralscent/Coding-Test-Practice)
 
 ---
 
