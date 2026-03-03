@@ -41,7 +41,8 @@
 
 🚀 Featured Projects
 
-  숭실대 NSPL 학부연구생 활동 정리[NSPL:Radar System](https://github.com/Floralscent/radar-signal-processing)
+  숭실대 NSPL 학부연구생 활동 정리
+  [NSPL:Radar System](https://github.com/Floralscent/radar-signal-processing)
     * 레이더 시스템 학습 및 신규 레이더 데이터 처리 및 FOV 검증 실험
     * Point Cloud 기반 SAR 구현 및 raw 데이터 SAR 확장
     * 주요 기술: Python, matlab
@@ -55,7 +56,8 @@
 
 
 🚀 Featured Projects
-유니스트 하계 인턴 활동 정리[U-Surf](https://github.com/Floralscent/u-surf_computervision)
+유니스트 하계 인턴 활동 정리
+[U-Surf](https://github.com/Floralscent/u-surf_computervision)
     * ROS2 및 Isaac Sim을 활용한 RGB-D to Point Cloud 변환 및 nvblox 실시간 맵핑 구현.
     * 주요 기술: Python, C++, ROS2, RGBD Camera Model.
 
